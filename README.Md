@@ -2,10 +2,10 @@
 # Required Dependencies
 
 1. **Python**  
-   Ensure you have Python 3.8+ installed on your system. If not, download it from [python.org](https://python.org).
+   Ensure you have Python 3.10 installed on your system. If not, download it from [python.org](https://python.org).
 
 2. **Node.js**  
-   You will also need Node.js (preferably v14.x or later). Download it from [nodejs.org](https://nodejs.org).
+   You will also need Node.js . Download it from [nodejs.org](https://nodejs.org).
 
 3. **MySQL Server**  
    Make sure you have MySQL Server installed and running. You can download MySQL from [dev.mysql.com/downloads/installer/](https://dev.mysql.com/downloads/installer/).
