@@ -102,7 +102,7 @@ python manage.py migrate
 
 ### Step 7: Start the Django Development Server
 Run the following command to start the Django development server:
-
+Navigate to the `backend/lab_portal/` directory:
 ```bash
 python manage.py runserver
 ```
