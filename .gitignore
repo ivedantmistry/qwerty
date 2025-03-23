@@ -1,0 +1,51 @@
+# Python/Django
+# Virtual environment
+venv/
+.env/
+
+# Bytecode and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django-specific
+*.log
+*.pot
+*.pyc
+migrations/
+db.sqlite3  # Exclude SQLite if used temporarily; not needed if you're using MySQL
+media/      # Exclude user-uploaded media files
+static/     # Exclude collected static files (if you use collectstatic)
+
+# Environment variables and sensitive files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+secrets.json
+settings.py.local  # If you have local overrides
+
+# Node.js/Frontend (gsfclt directory)
+node_modules/
+dist/
+build/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Editor-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Miscellaneous
+*.bak
+*.swp
+*.tmp
